@@ -24,7 +24,7 @@ bush黑窗口输入命令和远程仓库建立连接；git remote add origin ssh的地址
 将本地仓库推送到远程仓库：git push -u origin master
 
 乌龟方式：
-	右键--同步--推送
+	右键--同步--管理
 	
 
 
