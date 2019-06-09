@@ -1,0 +1,18 @@
+1.settings--version control--git--设置git目录
+2.添加到本地仓库：
+	vcs--import into Version Control--Create Git Repository--在本项目的上层目录创建一个本地仓库（会有一个.git文件夹）-- idea中会多出来一个工具条------
+uodataproject ---拉取
+Commit-- 提交到本地仓库
+compare with the same Repository Version--比较版本差异
+show History --显示当前文件修改的历史
+revert--使用本地版本库覆盖当前的文件
+
+java iml都加到本地仓库  需要输入日志信息；  
+
+----------------------------------------------------
+克隆并同步代码：
+	推送到远程仓库：：VCS---Git---push---向define remote中添加URL(使用https的方式)--- push---输入用户名和密码---
+	克隆代码：：关闭idea--首页中有Check out---Git---将远程仓库路径复制到Url---clone---
+----------------------------------------
+idea中使用分支：
+	VCS---gIT---branches----可以新建分支---
