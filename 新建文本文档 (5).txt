@@ -1,0 +1,11 @@
+mongod.exe --dbpath "E:\MongoDB\data\" --logpath "E:\MongoDB\logs\mongodb.log"  --install --serviceName "MongoDB"
+
+.\mongod --dbpath E:\MongoDB\data  Æô¶¯mongoDB
+" e:\mongoDB\bin\mongod.exe" ©\©\remove
+
+
+
+
+npm uninstall --save node-sass
+npm cache clean -f
+cnpm install node-sass
