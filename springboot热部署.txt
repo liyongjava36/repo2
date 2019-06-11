@@ -1,0 +1,7 @@
+ 1°¢ÃÌº”“¿¿µ£∫
+<dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+        </dependency>
+2°¢settings--Build--Compiler---Build Project automatical
+3°¢ctrl+shift+alt+/------registry-----—°‘Òcompiler.automake.allow.when.app.running
